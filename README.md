@@ -13,3 +13,6 @@ this django project is a newspaper site. There are 4 apps in this project:
  
  To use this project, first install required pakages:
   pip install -r requirements.txt
+
+source:
+[djangoforbeginners](https://github.com/wsvincent/djangoforbeginners)
