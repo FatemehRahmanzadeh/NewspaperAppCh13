@@ -8,3 +8,5 @@ this django project is a newspaper site. There are 4 apps in this project:
   This app includes pages that users can add articles, edit or delete a specific article.
  4. NewspaperAppCh13: 
   this is the main and config app.
+ 
+ this project is not yet complete...
